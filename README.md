@@ -17,3 +17,17 @@ Prince Carlo Padilla Juguilon
 - **[Facebook](https://www.facebook.com/Prince.Jugy)**
 - **[Instagram](https://www.instagram.com/princecaarlo/)**
 - **[Twitter](https://twitter.com/princecaarlo)**
+
+## Installation
+
+1) Clone this Repository into <b>/htdocs</b> folder.
+
+2) Run these three (3) commands:
+
+- npm install
+- npm run dev
+- composer update
+
+3) Setup local host configuration
+
+- **[Video Tutorial - 8:20](https://www.youtube.com/watch?v=H3uRXvwXz1o&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-&index=2)**
