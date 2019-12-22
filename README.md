@@ -30,4 +30,4 @@ Prince Carlo Padilla Juguilon
 
 3) Setup local host configuration
 
-- **[Video Tutorial - 8:20](https://www.youtube.com/watch?v=H3uRXvwXz1o&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-&index=2)**
+- **[Video Tutorial - 8:20](https://youtu.be/H3uRXvwXz1o?list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-&t=500)**
